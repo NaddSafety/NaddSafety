@@ -9,6 +9,7 @@
   - [Penetration Testing](https://github.com/NaddSafety/Metasploit-Nessus-DDos-nmap)
   - [Raspberry Pi Pico RubberDucky BadUSB](https://github.com/NaddSafety/Pico-Rubber-Ducky)
 <h2>✍ Certifications: </h2>
+<img width="990" src="https://github.com/user-attachments/assets/6a37b996-c5bd-4e37-852b-9b9fd58b7ea4">
 
 <img width="200" src="https://github.com/NaddSafety/NaddSafety/assets/125468609/d3a733f7-c94e-4876-938c-ed94d2b427c2">
 <img width="200" src="https://github.com/NaddSafety/NaddSafety/assets/125468609/8c71d9e5-fbb1-4d59-8bf1-9005f9b5af3c">
