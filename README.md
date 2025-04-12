@@ -1,13 +1,5 @@
 <h1>Hi, I'm Nour! <br/>
   
-<h2>👨‍💻 Cybersecurity Projects and labs:</h2>
-
-
-  - [StreamCall](https://github.com/NaddSafety/StreamCall)
-  - [EDR-LimaCharlie](https://github.com/NaddSafety/EDR-LimaCharlie)
-  - [DuckTape-BadUSB](https://github.com/NaddSafety/DuckTape-BADUSB)
-  - [Penetration Testing](https://github.com/NaddSafety/Metasploit-Nessus-DDos-nmap)
-  - [Raspberry Pi Pico RubberDucky BadUSB](https://github.com/NaddSafety/Pico-Rubber-Ducky)
     
 <h2>✍ Google Certifications: </h2>
 <img width="390" height="275" src="https://github.com/user-attachments/assets/1d3a138c-131a-4b36-a6f3-90518f1007d5">
@@ -51,6 +43,15 @@
 <img width="200" src="https://github.com/user-attachments/assets/6731b9af-5b96-45f4-8327-6e8910cd1177">
 
 
+
+<h2>👨‍💻 Cybersecurity Projects and labs:</h2>
+
+
+  - [StreamCall](https://github.com/NaddSafety/StreamCall)
+  - [EDR-LimaCharlie](https://github.com/NaddSafety/EDR-LimaCharlie)
+  - [DuckTape-BadUSB](https://github.com/NaddSafety/DuckTape-BADUSB)
+  - [Penetration Testing](https://github.com/NaddSafety/Metasploit-Nessus-DDos-nmap)
+  - [Raspberry Pi Pico RubberDucky BadUSB](https://github.com/NaddSafety/Pico-Rubber-Ducky)
 
 
 
