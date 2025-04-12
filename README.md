@@ -1,5 +1,38 @@
 <h1>Hi, I'm Nour! <br/>
+
+
+### 🛡️ Junior Cybersecurity Analyst | Threat Hunter | SOC Enthusiast
+
+Welcome to my GitHub! I'm passionate about defending systems, diving deep into threat analysis, and constantly learning new ways to detect and prevent cyber threats.
+
+### 🔍 What I Do  
+- Analyze and triage security alerts from SIEM tools like **Wazuh**, **Suricata**, and **Splunk**  
+- Deploy and manage endpoint and network security tools (e.g., Wazuh, ThreatDefence, Hexnode DLP)  
+- Build and simulate lab environments for SOC training (Windows, Kali, pfSense, AD)  
+- Develop and experiment with security scripts, YARA & Sigma rules, and automation tools  
+
+### 🧠 Certifications & Labs  
   
+- Google Cybersecurity Professional  
+- Splunk Investigations & Threat Hunting Series  
+- API Security (APISEC University)  
+- SOC Labs – LetsDefend, TryHackMe, HackTheBox  
+- Forage Simulations: PwC, Mastercard, ANZ, Tata & more
+
+### 🛠️ Projects & Labs  
+- **🖥️ DuckTape** – BadUSB Defense Tool using keystroke hooks  
+- **📡 SOC Lab Setup** – Full environment with SIEM and AD integration  
+- **🎧 StreamCall** – AI-powered call center assistant using Whisper + OpenAI  
+- **🦆 Pico Rubber Ducky** – BadUSB attack simulation with Raspberry Pi Pico  
+- **🔎 Threat Hunting** – Labs with LimaCharlie, Wazuh, and Sigma rules  
+
+### 📫 Let’s Connect  
+Feel free to reach out or explore my repos!  
+- 📧 [naddsafety@gmail.com](mailto:naddsafety@gmail.com)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/nouredden-abdelfattah)  
+
+---
+
     
 <h2>✍ Google Certifications: </h2>
 <img width="390" height="275" src="https://github.com/user-attachments/assets/1d3a138c-131a-4b36-a6f3-90518f1007d5">
