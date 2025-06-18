@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nour! <br/>
 
 
-### 🛡️ Junior Cybersecurity Analyst | Threat Hunter | SOC Enthusiast
+### 🛡️  Cybersecurity Engineer | Threat Hunter | SOC Enthusiast
 
-Welcome to my GitHub! I'm passionate about defending systems, diving deep into threat analysis, and constantly learning new ways to detect and prevent cyber threats.
+Welcome to my GitHub! I specialize in building resilient defenses, outsmarting adversaries, and designing scalable threat detection systems. Whether it’s scripting custom rules, deploying SIEMs, or spinning up lab environments—I’m all about hands-on, real-world security.
 
 ### 🔍 What I Do  
 - Analyze and triage security alerts from SIEM tools like **Wazuh**, **Suricata**, and **Splunk**  
@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about defending systems, diving deep into t
 - SOC Labs – LetsDefend, TryHackMe, HackTheBox  
 - Forage Simulations: PwC, Mastercard, ANZ, Tata & more
 
-### 🛠️ Projects & Labs  
+### 🛠️ Projects 
 - **🖥️ DuckTape** – BadUSB Defense Tool using keystroke hooks  
 - **📡 SOC Lab Setup** – Full environment with SIEM and AD integration  
 - **🎧 StreamCall** – AI-powered call center assistant using Whisper + OpenAI  
