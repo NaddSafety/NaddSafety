@@ -12,7 +12,8 @@ Welcome to my GitHub! I specialize in building resilient defenses, outsmarting a
 - Develop and experiment with security scripts, YARA & Sigma rules, and automation tools  
 
 ### 🧠 Certifications & Labs  
-  
+
+- Kaspersky Professional | Endpoint Security And Management | EDR Optimum | Next EDR Foundations
 - Google Cybersecurity Professional  
 - Splunk Investigations & Threat Hunting Series  
 - API Security (APISEC University)  
@@ -32,8 +33,14 @@ Feel free to reach out or explore my repos!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/nouredden-abdelfattah)  
 
 ---
+<h2>✍ Kaspersky Certifications: </h2>
 
-    
+<img width="390" height="275" src="https://github.com/user-attachments/assets/02d7c560-157a-4dca-a4ae-b13048f24678">
+<img width="390" height="275" src="https://github.com/user-attachments/assets/9dadde86-8a7d-44b4-8a17-0f6c7f8c6f7b">
+<img width="390" height="275" src="https://github.com/user-attachments/assets/6a0c3df8-33f0-4fa9-ab0a-fdec9f2e94e3">
+<img width="390" height="275" src="https://github.com/user-attachments/assets/1be90a79-0cfb-4e32-a3e5-dab84af5092f">
+
+
 <h2>✍ Google Certifications: </h2>
 <img width="390" height="275" src="https://github.com/user-attachments/assets/1d3a138c-131a-4b36-a6f3-90518f1007d5">
 
