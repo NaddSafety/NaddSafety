@@ -33,6 +33,9 @@ Feel free to reach out or explore my repos!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/nouredden-abdelfattah)  
 
 ---
+<h2>✍ ForcePoint Certifications: </h2>
+<img width="390" height="275" src="https://github.com/user-attachments/assets/efdbb820-cf7a-4437-8577-15b0df7ba31f">
+
 <h2>✍ Kaspersky Certifications: </h2>
 
 <img width="390" height="275" src="https://github.com/user-attachments/assets/02d7c560-157a-4dca-a4ae-b13048f24678">
