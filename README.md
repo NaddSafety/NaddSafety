@@ -35,6 +35,8 @@ Feel free to reach out or explore my repos!
 ---
 <h2>✍ ForcePoint Certifications: </h2>
 <img width="390" height="275" src="https://github.com/user-attachments/assets/efdbb820-cf7a-4437-8577-15b0df7ba31f">
+<img width="390" height="275" src="https://github.com/user-attachments/assets/6d812f71-6a07-4434-bbc8-b9fff370af1b"">
+<img width="390" height="275" src="https://github.com/user-attachments/assets/d08648d3-2854-41f0-a21c-915fff623c85">
 
 <h2>✍ Kaspersky Certifications: </h2>
 
