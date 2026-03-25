@@ -1,26 +1,47 @@
 <h1>Hi, I'm Nour! <br/>
 
 
-### 🛡️  Cybersecurity Engineer | Threat Hunter | SOC Enthusiast
+### 🛡️  Cybersecurity Engineer | Data Protection | Endpoint & Network Security
 
-Welcome to my GitHub! I specialize in building resilient defenses, outsmarting adversaries, and designing scalable threat detection systems. Whether it’s scripting custom rules, deploying SIEMs, or spinning up lab environments—I’m all about hands-on, real-world security.
+I’m focused on enterprise security solutions, with hands-on experience in Data Loss Prevention (DLP), endpoint security, and system integration across real client environments.
+specialized in troubleshooting complex security systems, implementing security controls, and ensuring reliable protection across distributed infrastructures.
+You might also find me building resilient defenses, and designing scalable threat detection systems. Whether it’s scripting custom rules, deploying SIEMs, or spinning up lab environments I’m all about hands on, real world security.
 
 ### 🔍 What I Do  
+- Secure and maintain enterprise DLP environments - Forcepoint
+- Troubleshoot endpoint, network, and system integration issues
+- Configure and optimize security policies and enforcement mechanisms
+- Perform system health checks, upgrades, and preventive maintenance
+- Work closely with clients and vendors to resolve production issues
+- Develop technical documentation and troubleshooting guides
 - Analyze and triage security alerts from SIEM tools like **Wazuh**, **Suricata**, and **Splunk**  
-- Deploy and manage endpoint and network security tools (e.g., Wazuh, ThreatDefence, Hexnode DLP)  
+- Deploy and manage endpoint and network security tools (ThreatDefence, Hexnode DLP, Wazuh)  
 - Build and simulate lab environments for SOC training (Windows, Kali, pfSense, AD)  
 - Develop and experiment with security scripts, YARA & Sigma rules, and automation tools  
 
-### 🧠 Certifications & Labs  
+### 🔥 NETWORK & FORTINET 
+Certified in Fortinet FortiGate 7.6, with hands-on experience in firewall configuration, policy management, NAT, and routing fundamentals.
+Strong understanding of networking concepts including TCP/IP, ports, routing, segmentation, and secure communication between systems.
+Familiar with:
+Firewall policy design and traffic flow
+VPN fundamentals (IPSec concepts)
+Security inspection concepts (stateful inspection, traffic filtering)
+Experience troubleshooting connectivity and communication issues between endpoints, servers, and services in enterprise environments.
 
+
+### 🧠 Certifications & Labs  
+- Fortinet – FortiGate 7.6 Operator
+- Forcepoint Web Security Administrator
+- Forcepoint DLP Administrator
 - Kaspersky Professional | Endpoint Security And Management | EDR Optimum | Next EDR Foundations
 - Google Cybersecurity Professional  
 - Splunk Investigations & Threat Hunting Series  
 - API Security (APISEC University)  
-- SOC Labs – LetsDefend, TryHackMe, HackTheBox  
+- SOC Labs  
 - Forage Simulations: PwC, Mastercard, ANZ, Tata & more
 
 ### 🛠️ Projects 
+- **🛡️ SOC & Security Engineering Lab** : Built a full SIEM environment using Wazuh, Suricata, pfSense, and Active Directory with 30+ endpoints
 - **🖥️ DuckTape** – BadUSB Defense Tool using keystroke hooks  
 - **📡 SOC Lab Setup** – Full environment with SIEM and AD integration  
 - **🎧 StreamCall** – AI-powered call center assistant using Whisper + OpenAI  
