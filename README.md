@@ -41,7 +41,7 @@ Experience troubleshooting connectivity and communication issues between endpoin
 - Forage Simulations: PwC, Mastercard, ANZ, Tata & more
 
 ### 🛠️ Projects 
-- **🛡️ SOC & Security Engineering Lab** : Built a full SIEM environment using Wazuh, Suricata, pfSense, and Active Directory with 30+ endpoints
+- **🛡️ SOC & Security Engineering Lab** : Built a full SIEM environment using Wazuh, Suricata, pfSense, and AD with 30+ endpoints
 - **🖥️ DuckTape** – BadUSB Defense Tool using keystroke hooks  
 - **📡 SOC Lab Setup** – Full environment with SIEM and AD integration  
 - **🎧 StreamCall** – AI-powered call center assistant using Whisper + OpenAI  
@@ -54,6 +54,13 @@ Feel free to reach out or explore my repos!
 - 🌍 [LinkedIn](https://www.linkedin.com/in/nouredden-abdelfattah)  
 
 ---
+
+<h2>✍ Fortinet Certifications: </h2>
+<img width="390" height="275" alt="image" src="https://github.com/user-attachments/assets/1136006e-ce63-4b6c-8017-08794dbfe388" />
+<img width="390" height="275" alt="image" src="https://github.com/user-attachments/assets/5af2b18f-4965-4412-a5fe-54c01737c159" />
+
+
+
 <h2>✍ ForcePoint Certifications: </h2>
 <img width="390" height="275" src="https://github.com/user-attachments/assets/efdbb820-cf7a-4437-8577-15b0df7ba31f">
 <img width="390" height="275" src="https://github.com/user-attachments/assets/6d812f71-6a07-4434-bbc8-b9fff370af1b"">
